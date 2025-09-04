@@ -1,0 +1,4 @@
+PyQt5
+edge-tts
+pyinstaller
+python-docx
